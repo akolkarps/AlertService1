@@ -1,0 +1,5 @@
+com\test\AlertService\Alert.class
+com\test\AlertService\GenerateAlert.class
+com\test\AlertService\AbstractAlertService.class
+com\test\AlertService\AlertService.class
+com\test\AlertService\AlertComparator.class
